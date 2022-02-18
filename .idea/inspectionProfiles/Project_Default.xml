@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="python_selenium_course_material.python_selenium_course_material.PYTHON_SECTION.Files.sample_files.exercises.count_domains_in_email_list_file_exercise.yahoo" />
+          <option value="python_selenium_course_material.python_selenium_course_material.PYTHON_SECTION.Files.sample_files.exercises.count_domains_in_email_list_file_exercise.gmail" />
+          <option value="python_selenium_course_material.python_selenium_course_material.PYTHON_SECTION.Files.sample_files.exercises.count_domains_in_email_list_file_exercise.outlook" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
